@@ -67,8 +67,8 @@
     },
     "require-dev": {
         "phpunit/phpunit": "~5.0"
-    }
-	 "require": {
-        "php": ">=5.3"
-    }
+    },
+	"require": {
+        "php":">=5.3"
+    },
 }
