@@ -1,5 +1,5 @@
 {
-    "name": "aliyun/aliyun-openapi-php-sdk",
+    "name": "aliyuncs/aliyun-openapi-php-sdk",
     "description": "aliyun openapi php sdk",
     "license": "Apache-2.0",
     "authors": [{
@@ -67,5 +67,8 @@
     },
     "require-dev": {
         "phpunit/phpunit": "~5.0"
+    }
+	 "require": {
+        "php": ">=5.3"
     }
 }
